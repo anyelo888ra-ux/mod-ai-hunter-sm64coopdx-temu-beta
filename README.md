@@ -45,3 +45,9 @@ Activa y configura el mod directamente desde la consola de chat del juego con lo
 * **Organización:** cO0lcompany Systems 🚀
 
 *Este proyecto es un experimento de simulación y desarrollo en Lua para la comunidad de Super Mario 64.*
+
+# AI Hunter Temu v1.1
+Compatibilidad actualizada para SM64 Coop DX v1.5
+
+Estamos trabajando en la actualización del AI Hunter para la nueva versión de SM64 Coop DX (v1.5). 
+Esta versión corrige problemas de movimiento, detección de jugadores y comportamiento roto por los cambios en la API.
