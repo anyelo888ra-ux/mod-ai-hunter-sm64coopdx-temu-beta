@@ -1,3 +1,4 @@
+-- name: Nightmare Hunter
 --------------------------------------------------
 -- TORRE 1: CONFIGURACIÓN GENERAL + DIFICULTADES
 --------------------------------------------------
